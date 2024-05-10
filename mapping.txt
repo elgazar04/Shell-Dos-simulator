@@ -1,0 +1,25 @@
+dir            ls
+cd             cd
+mkdir          mkdir
+rmdir          rmdir
+del            rm
+copy           cp
+move           mv
+ren            mv
+cls            clear
+type           cat
+echo           echo
+find           grep
+findstr        grep
+attrib         lsattr / chattr
+chkdsk         fsck
+format         mkfs
+ipconfig       ifconfig / ip
+ping           ping
+tracert        traceroute
+netstat        netstat
+route          route
+shutdown       shutdown
+tasklist       ps
+taskkill       kill
+
